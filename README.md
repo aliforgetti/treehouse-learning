@@ -1,2 +1,2 @@
 # treehouse-learning
-Modeling behavior during learning task.
+Modeling behavior during paired-associate learning task.
